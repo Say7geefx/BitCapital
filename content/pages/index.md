@@ -69,7 +69,12 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      As well as being a global leader in container shipping, our worldwide
+      teams of industry specific experts mean we can offer our customers
+      round-the-clock personalised service. This ensures we deliver fast and
+      reliable transit times, and that we provide the best solutions for your
+      needs.
     items:
       - type: FeaturedItem
         title: 500k
