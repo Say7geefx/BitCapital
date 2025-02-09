@@ -63,7 +63,7 @@ sections:
       color: text-dark
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Our Solutions
       color: text-dark
       styles:
         self:
