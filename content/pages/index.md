@@ -16,7 +16,7 @@ sections:
     text: |+
 
     actions:
-      - label: Get started
+      - label: Booking Number
         altText: ''
         url: /
         showIcon: false
