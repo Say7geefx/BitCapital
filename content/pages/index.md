@@ -746,7 +746,7 @@ sections:
 seo:
   metaTitle: 'Home '
   metaDescription: ''
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/photo-1578575437130-527eed3abbec.avif
   type: Seo
   addTitleSuffix: false
 type: PageLayout
