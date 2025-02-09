@@ -14,7 +14,6 @@ sections:
       deliveries in real-time. Trust QuickShipNow for all your delivery needs
       and experience the convenience of fast and reliable shipping.
     text: |+
-      #
 
     actions:
       - label: Get started
