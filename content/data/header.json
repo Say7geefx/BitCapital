@@ -1,7 +1,7 @@
 {
     "logo": {
         "url": "/images/vise-logo.svg",
-        "altText": "Logo dark",
+        "altText": "",
         "styles": {
             "self": {
                 "margin": [
