@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >+
-      ## QuickShipNow is a reliable and fast delivery service that ensures your
+      # QuickShipNow is a reliable and fast delivery service that ensures your
       packages arrive at their destination quickly and efficiently. With our
       extensive network and cutting-edge technology, we offer a range of
       delivery options to suit your needs, from express shipping to same-day
