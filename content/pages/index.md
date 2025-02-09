@@ -174,7 +174,7 @@ sections:
           - pr-16
         justifyContent: center
       subtitle:
-        textAlign: center
+        textAlign: justify
         fontWeight: 700
     backgroundImage:
       type: BackgroundImage
