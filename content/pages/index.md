@@ -182,7 +182,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/photo-1590496793907-4d66e2994b4d.avif
+      url: /images/photo-1606185540834-d6e7483ee1a4.avif
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
