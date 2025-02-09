@@ -31,7 +31,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: WELCOME TO QUICKSHIPNOW
       color: text-primary
       type: Badge
     elementId: ''
