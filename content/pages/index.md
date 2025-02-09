@@ -8,16 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >+
-      # QuickShipNow is a reliable and fast delivery service that ensures your
-      packages arrive at their destination quickly and efficiently. With our
-      extensive network and cutting-edge technology, we offer a range of
-      delivery options to suit your needs, from express shipping to same-day
-      delivery. Our team of experienced drivers and state-of-the-art equipment
-      ensure that your packages are handled with the utmost care, and our
-      easy-to-use online tracking system allows you to keep tabs on your
-      deliveries in real-time. Trust QuickShipNow for all your delivery needs
-      and experience the convenience of fast and reliable shipping.
+    text: |+
+      #
 
     actions:
       - label: Get started
