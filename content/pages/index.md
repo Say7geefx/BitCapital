@@ -745,7 +745,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: ''
   socialImage: /images/main-hero.jpg
   type: Seo
   addTitleSuffix: false
