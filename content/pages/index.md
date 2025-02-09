@@ -134,8 +134,7 @@ sections:
         title: Shipping Solutions
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: "Whatever you are importing or exporting, whether it is food or clothing, chemicals or pharma, our ocean shipping solutions get products to their destination. From selecting the right container for your goods, to loading safely and efficiently at the portside, to monitoring the condition of your container throughout its time at sea, we will support you at every step of your cargo’s journey.\n\n\n\_\n\n\n\n"
         image:
           type: ImageBlock
           url: /images/photo-1518527989017-5baca7a58d3c.avif
