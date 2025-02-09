@@ -744,7 +744,7 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: 'Home '
   metaDescription: ''
   socialImage: /images/main-hero.jpg
   type: Seo
