@@ -19,6 +19,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 400
     subtitle: Subtitle goes here
     text: |+
       #
