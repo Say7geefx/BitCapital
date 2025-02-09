@@ -16,6 +16,9 @@ sections:
         and experience the convenience of fast and reliable shipping.
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: center
     subtitle: Subtitle goes here
     text: |+
       #
