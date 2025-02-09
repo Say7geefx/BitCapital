@@ -100,6 +100,7 @@ sections:
             flexDirection: row
             textAlign: left
             justifyContent: center
+            borderWidth: 2
         type: FeaturedItem
       - type: FeaturedItem
         title: 500k
