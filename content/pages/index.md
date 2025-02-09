@@ -64,7 +64,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       text: Our Solutions
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
