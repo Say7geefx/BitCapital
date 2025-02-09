@@ -153,6 +153,7 @@ sections:
               - pr-8
             borderRadius: medium
             flexDirection: col-reverse
+            borderColor: border-neutral
     actions:
       - label: Get started
         altText: ''
