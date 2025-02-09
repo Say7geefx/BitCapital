@@ -59,7 +59,7 @@ sections:
       altText: altText of the image
       backgroundSize: cover
       backgroundPosition: center
-      backgroundRepeat: no-repeat
+      backgroundRepeat: repeat-x
       opacity: 100
       url: /images/premium_photo-1661962532309-07c1e2270ada.avif
   - type: FeaturedItemsSection
