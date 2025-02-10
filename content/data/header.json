@@ -40,7 +40,7 @@
         },
         {
             "label": "Home",
-            "altText": "Dropdown",
+            "altText": "",
             "links": [
                 {
                     "label": "Dropdown item",
