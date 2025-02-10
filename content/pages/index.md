@@ -225,7 +225,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Car parts.jpg
           altText: Placeholder image
           styles:
             self:
