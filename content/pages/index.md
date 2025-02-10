@@ -215,8 +215,14 @@ sections:
         title: Car Parts
         tagline: This is the tagline
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: >+
+          Whether you are shipping production or service parts, cars, trucks or
+          electric vehicles, a reliable and experienced shipping partner is a
+          vital link in your uninterruptible supply chain. As the automotive
+          industry gradually moves into a new, greener era, MSC will be here to
+          provide the fast, flexible and transparent supply chain solution you
+          need.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
