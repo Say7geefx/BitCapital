@@ -236,7 +236,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: PHARMACEUTICAL TRANSPORT
+        title: PHARMACEUTICALS
         tagline: ''
         subtitle: ''
         text: >+
