@@ -13,17 +13,10 @@
     },
     "primaryLinks": [
         {
-            "label": "",
-            "altText": "",
-            "links": [],
-            "labelStyle": "secondary",
-            "type": "SubNav"
-        },
-        {
             "type": "Button",
             "label": "Home",
             "altText": "",
-            "url": "quickshipnow.netlify.app",
+            "url": "",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
