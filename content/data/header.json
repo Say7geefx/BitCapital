@@ -13,6 +13,13 @@
     },
     "primaryLinks": [
         {
+            "label": "",
+            "altText": "",
+            "links": [],
+            "labelStyle": "secondary",
+            "type": "SubNav"
+        },
+        {
             "type": "Button",
             "label": "Home",
             "altText": "",
@@ -22,13 +29,6 @@
             "iconPosition": "right",
             "style": "primary",
             "elementId": ""
-        },
-        {
-            "label": "",
-            "altText": "",
-            "links": [],
-            "labelStyle": "secondary",
-            "type": "SubNav"
         },
         {
             "label": "Pricing",
