@@ -59,7 +59,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/lorry-on-motorway-in-motion.jpg
+      url: /images/6261112.jpg
     title:
       type: TitleBlock
       text: WELCOME TO QUICKSHIPNOW
