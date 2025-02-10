@@ -363,7 +363,7 @@ sections:
       solution for your next shipping request.
 
     media:
-      title: Title of the video
+      title: QuickShipNow
       url: /images/placeholder-video.mp4
       controls: false
       aspectRatio: '16:9'
