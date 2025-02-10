@@ -365,7 +365,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: 'https://files.fm/u/ma7s6dawp8'
+      url: 'https://youtu.be/5NV8UgA2dOI?si=UCFz8XjmiAdMOCHF'
       autoplay: true
       loop: true
       muted: true
