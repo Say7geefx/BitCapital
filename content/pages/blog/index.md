@@ -13,7 +13,7 @@ topSections:
     showThumbnail: false
     showExcerpt: true
     showDate: false
-    showAuthor: true
+    showAuthor: false
     variant: two-col-grid
     colors: bg-light-fg-dark
     styles:
