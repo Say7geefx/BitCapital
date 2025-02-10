@@ -11,7 +11,7 @@ topSections:
     subtitle: ''
     posts: []
     showThumbnail: false
-    showExcerpt: true
+    showExcerpt: false
     showDate: false
     showAuthor: false
     variant: big-list
