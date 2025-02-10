@@ -13,6 +13,17 @@
     },
     "primaryLinks": [
         {
+            "type": "Button",
+            "label": "Get started",
+            "altText": "",
+            "url": "/https://quickshipnow.netlify.app",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
             "label": "",
             "altText": "",
             "links": [],
