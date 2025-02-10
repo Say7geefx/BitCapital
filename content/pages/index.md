@@ -235,7 +235,7 @@ sections:
             label: Read More
             altText: ''
             url: Read More
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: secondary
