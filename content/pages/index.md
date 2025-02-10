@@ -365,7 +365,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: 'https://www.kapwing.com/w/GajBpbOOlg'
+      url: 'https://www.kapwing.com/c/GajBpbOOlg'
       autoplay: true
       loop: true
       muted: true
