@@ -24,6 +24,8 @@ topSections:
           - pl-4
           - pr-10
         justifyContent: flex-start
+        margin:
+          - ml-10
     type: FeaturedPostsSection
     hoverEffect: move-up
     backgroundImage:
