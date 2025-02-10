@@ -27,7 +27,7 @@ sections:
         type: Button
       - label: TRACK SHIPMENT
         altText: ''
-        url: /
+        url: /Track-shipment
         showIcon: false
         icon: arrowRight
         iconPosition: right
