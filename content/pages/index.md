@@ -253,7 +253,7 @@ sections:
       - type: FeaturedItem
         title: Pharmaticals
         tagline: ''
-        subtitle: ''
+        subtitle: Helping our customers to help the world.
         text: >+
           An increasing number of companies are opting to ship pharmaceuticals
           to ensure the quick and safe delivery of medicines and other essential
