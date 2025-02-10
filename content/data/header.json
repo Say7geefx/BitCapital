@@ -16,7 +16,7 @@
             "type": "Button",
             "label": "Home",
             "altText": "",
-            "url": "",
+            "url": "https://quickshipnow.netlify.app",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
