@@ -33,6 +33,7 @@ topSections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/Blog.jpg
 styles:
   title:
     textAlign: center
