@@ -50,7 +50,7 @@ sections:
           - pb-44
           - pr-16
       subtitle:
-        fontWeight: 400
+        fontWeight: 700
         textAlign: left
     backgroundImage:
       type: BackgroundImage
