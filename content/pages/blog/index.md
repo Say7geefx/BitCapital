@@ -36,7 +36,7 @@ topSections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/Blog.jpg
+      url: /images/photo-1449247666642-264389f5f5b1.avif
 styles:
   title:
     textAlign: center
