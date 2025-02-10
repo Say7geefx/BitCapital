@@ -205,7 +205,11 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: ''
+    subtitle: >-
+      At QuickShipNow we pride ourselves on being a global container shipping
+      company that delivers tailored solutions designed to meet the specific
+      needs of each of our customers. Regardless of your cargo type, or final
+      destination, we offer versatile solutions that cover air, land, and sea.
     items:
       - type: FeaturedItem
         title: Feature Item One
