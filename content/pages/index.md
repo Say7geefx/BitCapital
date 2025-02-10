@@ -595,7 +595,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Shipping Solutions
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
