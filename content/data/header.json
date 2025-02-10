@@ -21,6 +21,13 @@
             "type": "Link"
         },
         {
+            "label": "Home",
+            "altText": "",
+            "links": [],
+            "labelStyle": "secondary",
+            "type": "SubNav"
+        },
+        {
             "label": "Blog",
             "altText": "Blog",
             "url": "/blog",
@@ -28,13 +35,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
-        },
-        {
-            "label": "Home",
-            "altText": "",
-            "links": [],
-            "labelStyle": "secondary",
-            "type": "SubNav"
         },
         {
             "label": "Careers",
