@@ -30,6 +30,13 @@
             "type": "Link"
         },
         {
+            "label": "Home",
+            "altText": "",
+            "links": [],
+            "labelStyle": "secondary",
+            "type": "SubNav"
+        },
+        {
             "label": "Careers",
             "altText": "Careers page",
             "url": "/careers",
@@ -37,13 +44,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
-        },
-        {
-            "label": "Home",
-            "altText": "",
-            "links": [],
-            "labelStyle": "secondary",
-            "type": "SubNav"
         }
     ],
     "secondaryLinks": [
