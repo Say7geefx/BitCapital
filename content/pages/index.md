@@ -239,8 +239,15 @@ sections:
         title: PHARMACEUTICAL TRANSPORT
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: >+
+          An increasing number of companies are opting to ship pharmaceuticals
+          to ensure the quick and safe delivery of medicines and other essential
+          goods. Ensuring optimal shipping of pharmaceutical products is crucial
+          since the products themselves are highly sensitive in terms of time
+          and quality assurance.
+
+
+
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
