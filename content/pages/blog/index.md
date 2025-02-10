@@ -16,26 +16,6 @@ seo:
   type: Seo
 type: PostFeedLayout
 bottomSections: []
-postFeed:
-  type: PagedPostsSection
-  title: null
-  subtitle: null
-  showThumbnail: false
-  showExcerpt: false
-  showDate: false
-  showAuthor: false
-  actions: []
-  elementId: null
-  variant: three-col-grid
-  colors: bg-light-fg-dark
-  hoverEffect: shadow
-  backgroundImage:
-    type: BackgroundImage
-    altText: altText of the image
-    backgroundSize: auto
-    backgroundPosition: center
-    backgroundRepeat: no-repeat
-    opacity: 100
 ---
 
 
