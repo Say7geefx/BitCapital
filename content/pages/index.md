@@ -545,11 +545,12 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Our global shipping network is developed for our customers. By focusing on
+      delivering best-in-class service to our customers, we are always available
+      to help you with your particular needs and offer you a one-stop-shop
+      solution for your next shipping request.
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
