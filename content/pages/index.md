@@ -538,7 +538,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Grow your business 10x faster
+      text: 'Moving the World, Together.'
       color: text-dark
       styles:
         self:
