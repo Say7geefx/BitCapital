@@ -21,7 +21,7 @@ topSections:
         padding:
           - pt-60
           - pb-96
-          - pl-8
+          - pl-56
           - pr-44
         justifyContent: center
         margin:
