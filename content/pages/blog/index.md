@@ -3,40 +3,7 @@ title: Blog
 slug: /blog
 numOfPostsPerPage: 4
 enableSearch: true
-topSections:
-  - title:
-      text: CATCHING WAVES WITH QUICKSHIPNOW
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
-    posts: []
-    showThumbnail: false
-    showExcerpt: false
-    showDate: false
-    showAuthor: false
-    variant: two-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-60
-          - pb-96
-          - pl-56
-          - pr-44
-        justifyContent: center
-        margin:
-          - ml-0
-          - mr-0
-    type: FeaturedPostsSection
-    hoverEffect: shadow
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/olo.jpg
+topSections: []
 styles:
   title:
     textAlign: center
