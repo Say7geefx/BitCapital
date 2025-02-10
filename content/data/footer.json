@@ -73,6 +73,6 @@
         }
     ],
     "copyrightText": "Powered by 7G\n",
-    "colors": "bg-light-fg-dark",
+    "colors": "bg-neutral-fg-dark",
     "type": "Footer"
 }
