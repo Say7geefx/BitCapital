@@ -399,7 +399,7 @@ sections:
       opacity: 100
       url: /images/52465.jpg
   - title:
-      text: Business Consulting
+      text: Supporting Safe and Secure Supply Chains
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
