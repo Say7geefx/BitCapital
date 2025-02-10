@@ -213,7 +213,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Car Parts
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >+
           Whether you are shipping production or service parts, cars, trucks or
