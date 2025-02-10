@@ -14,7 +14,7 @@ topSections:
     showExcerpt: true
     showDate: true
     showAuthor: true
-    variant: big-list
+    variant: two-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
