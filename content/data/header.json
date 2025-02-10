@@ -15,7 +15,7 @@
         {
             "type": "Button",
             "label": "Home",
-            "altText": "/Home",
+            "altText": "",
             "url": "/Home",
             "showIcon": false,
             "icon": "arrowRight",
