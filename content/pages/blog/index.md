@@ -29,14 +29,6 @@ topSections:
           - mr-0
     type: FeaturedPostsSection
     hoverEffect: shadow-plus-move-up
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/photo-1449247666642-264389f5f5b1.avif
 styles:
   title:
     textAlign: center
