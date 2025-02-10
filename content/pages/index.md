@@ -59,7 +59,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/6261112.jpg
+      url: /images/transport-logistics-concept.jpg
     title:
       type: TitleBlock
       text: WELCOME TO QUICKSHIPNOW
