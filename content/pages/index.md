@@ -421,14 +421,7 @@ sections:
 
 
 
-    actions:
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+    actions: []
     media:
       url: /images/MSC-Crew-on-board-MSC-Tessa-overseeing-loading.jpg
       altText: Dope design preview
