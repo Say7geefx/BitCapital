@@ -293,7 +293,7 @@ sections:
       - type: FeaturedItem
         title: "Food &\_Beverages"
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: "Meat,\_seafood,\_fruit,\_vegetables\_and\_beverages, such as\_coffee, represent some of the world's most popular commodities. Frequently shipped fresh or in frozen form, for businesses involved in shipping this type of cargo there can be some significant challenges, including maintaining quality, temperature, freshness, or managing seasonal fluctuations.\n\n\_\n\n\n\n"
         image:
           type: ImageBlock
