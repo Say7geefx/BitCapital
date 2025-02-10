@@ -22,7 +22,7 @@ topSections:
           - pt-60
           - pb-96
           - pl-4
-          - pr-10
+          - pr-44
         justifyContent: flex-start
         margin:
           - ml-0
