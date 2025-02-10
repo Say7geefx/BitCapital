@@ -489,14 +489,6 @@ sections:
       type: Badge
     colors: bg-neutral-fg-dark
     type: GenericSection
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/6261112.jpg
 seo:
   metaTitle: 'Home '
   metaDescription: ''
