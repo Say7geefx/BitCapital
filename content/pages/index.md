@@ -397,6 +397,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/photo-1590497008432-598f04441de8.avif
   - type: GenericSection
     title:
       text: Generic section with a video
