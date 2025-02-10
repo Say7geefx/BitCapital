@@ -238,7 +238,7 @@ sections:
       - type: FeaturedItem
         title: PHARMACEUTICAL TRANSPORT
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first awesome Netlify site.
         image:
