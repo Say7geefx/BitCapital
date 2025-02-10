@@ -8,7 +8,7 @@ topSections:
       text: CATCHING WAVES WITH QSN
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: ''
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
