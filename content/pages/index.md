@@ -258,6 +258,103 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - title:
+      text: Our Solutions
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: Featured items section subtitle
+    items:
+      - title: Air Cargo Solution
+        tagline: ''
+        subtitle: ''
+        text: "Cargoes such as pharmaceuticals, perishables, and even automotives\_need to reach their final destination with top speed and as a priority. To ensure the reliable, transparent, and agile transportation of your cargo whenever you need it, QuickShipNow has designed their Air Cargo Solutions to suit your needs. For a trusted air cargo solution, look no further than QuickShipNow.\n\n\n\n\n\n\n"
+        image:
+          url: /images/transportation-illustration-ai-generated.jpg
+          altText: Placeholder Image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - title: Shipping Solutions
+        tagline: ''
+        subtitle: ''
+        text: >+
+          Whatever you are importing or exporting, whether it is food or
+          clothing, chemicals or pharma, our ocean shipping solutions get
+          products to their destination. From selecting the right container for
+          your goods, to loading safely and efficiently at the portside, to
+          monitoring the condition of your container throughout its time at sea,
+          we will support you at every step of your cargo’s journey.
+
+        image:
+          url: /images/photo-1578575437130-527eed3abbec.avif
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - title: Cargo Cover Solution
+        tagline: ''
+        subtitle: ''
+        text: >
+          Learn from the tutorial and build your first awesome Netlify Create
+          site.
+        image:
+          url: /images/abstract-feature1.svg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-16
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: FeaturedItemsSection
   - type: CarouselSection
     title: null
     subtitle: What our customers say about us
@@ -450,103 +547,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: Our Solutions
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Featured items section subtitle
-    items:
-      - title: Air Cargo Solution
-        tagline: ''
-        subtitle: ''
-        text: "Cargoes such as pharmaceuticals, perishables, and even automotives\_need to reach their final destination with top speed and as a priority. To ensure the reliable, transparent, and agile transportation of your cargo whenever you need it, QuickShipNow has designed their Air Cargo Solutions to suit your needs. For a trusted air cargo solution, look no further than QuickShipNow.\n\n\n\n\n\n\n"
-        image:
-          url: /images/transportation-illustration-ai-generated.jpg
-          altText: Placeholder Image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Shipping Solutions
-        tagline: ''
-        subtitle: ''
-        text: >+
-          Whatever you are importing or exporting, whether it is food or
-          clothing, chemicals or pharma, our ocean shipping solutions get
-          products to their destination. From selecting the right container for
-          your goods, to loading safely and efficiently at the portside, to
-          monitoring the condition of your container throughout its time at sea,
-          we will support you at every step of your cargo’s journey.
-
-        image:
-          url: /images/photo-1578575437130-527eed3abbec.avif
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Cargo Cover Solution
-        tagline: ''
-        subtitle: ''
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
   - title:
       text: Generic Section With A Form
       color: text-dark
