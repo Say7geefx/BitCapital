@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Tracking Number
 slug: /blog
 numOfPostsPerPage: 4
 enableSearch: true
