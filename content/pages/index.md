@@ -212,7 +212,7 @@ sections:
       destination, we offer versatile solutions that cover air, land, and sea.
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Car Parts
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
