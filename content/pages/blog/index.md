@@ -5,7 +5,7 @@ numOfPostsPerPage: 8
 enableSearch: true
 topSections:
   - title:
-      text: ''
+      text: CATCHING WAVES WITH QSN
       color: text-dark
       type: TitleBlock
     subtitle: This is the subtitle
