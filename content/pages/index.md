@@ -124,9 +124,12 @@ sections:
       - title: Cargo Cover Solution
         tagline: ''
         subtitle: ''
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: >+
+          As the loss or damage of your cargo can understandably cause financial
+          and emotional stress, you can always count on QuickShipNow. We are
+          here to offer you a comprehensive coverage for your cargo, for
+          maritime and inland transportation.
+
         image:
           url: /images/3d-person-holding-box-other-boxes.jpg
           altText: Placeholder image
