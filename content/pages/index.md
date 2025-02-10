@@ -390,14 +390,6 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/52465.jpg
   - title:
       text: Supporting Safe and Secure Supply Chains
       color: text-dark
