@@ -23,7 +23,7 @@ topSections:
           - pb-96
           - pl-4
           - pr-44
-        justifyContent: flex-start
+        justifyContent: center
         margin:
           - ml-0
           - mr-0
