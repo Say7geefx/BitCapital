@@ -36,6 +36,7 @@ topSections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/LogOOOO.jpg
 styles:
   title:
     textAlign: center
