@@ -22,7 +22,7 @@
         {
             "type": "Button",
             "label": "Home",
-            "altText": "",
+            "altText": "https://quickshipnow.netlify.app",
             "url": "/https://quickshipnow.netlify.app",
             "showIcon": false,
             "icon": "arrowRight",
