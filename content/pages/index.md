@@ -49,6 +49,8 @@ sections:
           - pl-16
           - pb-44
           - pr-16
+      subtitle:
+        fontWeight: 700
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
