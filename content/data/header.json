@@ -13,19 +13,19 @@
     },
     "primaryLinks": [
         {
+            "label": "Home",
+            "altText": "",
+            "links": [],
+            "labelStyle": "secondary",
+            "type": "SubNav"
+        },
+        {
             "label": "Pricing",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
-        },
-        {
-            "label": "Home",
-            "altText": "",
-            "links": [],
-            "labelStyle": "secondary",
-            "type": "SubNav"
         },
         {
             "label": "Blog",
