@@ -200,7 +200,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Your Shipping Needs Met
       color: text-primary
       styles:
         self:
