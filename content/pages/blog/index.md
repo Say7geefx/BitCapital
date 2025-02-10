@@ -12,7 +12,7 @@ topSections:
     posts: []
     showThumbnail: false
     showExcerpt: true
-    showDate: true
+    showDate: false
     showAuthor: true
     variant: two-col-grid
     colors: bg-light-fg-dark
