@@ -397,7 +397,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/transportation-illustration-ai-generated.jpg
+      url: /images/52465.jpg
   - type: GenericSection
     title:
       text: Generic section with a video
