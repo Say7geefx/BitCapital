@@ -13,11 +13,22 @@
     },
     "primaryLinks": [
         {
-            "label": "Home",
-            "altText": "https://quickshipnow.netlify.app/",
+            "label": "",
+            "altText": "",
             "links": [],
             "labelStyle": "secondary",
             "type": "SubNav"
+        },
+        {
+            "type": "Button",
+            "label": "Home",
+            "altText": "",
+            "url": "/https://quickshipnow.netlify.app",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
         },
         {
             "label": "Pricing",
