@@ -205,7 +205,60 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: >-
+      At MSC we pride ourselves on being a global container shipping company
+      that delivers tailored solutions designed to meet the specific needs of
+      each of our customers. Regardless of your cargo type, or final
+      destination, we offer versatile solutions that cover air, land, and
+      sea.Thanks to the extensive capacity of our container fleet, MSC is the
+      trusted transportation partner and shipping company for numerous companies
+      the world over. Combining this with our global port coverage and extensive
+      equipment availability means, we are able to deliver a professional,
+      efficient shipping service, tailored to the specific needs of your
+      business.PreviousAgricultureWith global sourcing an everyday reality, MSC
+      connects the growers, farmers and producers of agricultural products
+      around the world with their key markets.Read moreFruitsWhether you’re
+      shipping apples or avocados, our world-leading reefer fleet is equipped
+      with the technology you need to keep your fruit in perfect condition. We
+      use the Cold Treatment process as a chemical-free way to disinfect your
+      fruit and protect it from pests.Read morePharmaceuticalsMore and more
+      pharmaceutical companies are turning to sea transport to deliver medicines
+      and other essential goods quickly and safely to the places where they are
+      needed. When shipping with MSC you benefit not only from our GDP compliant
+      practices but also from our vast global network, which connects all of the
+      world’s major trading centres. We can provide reliable and cost-effective
+      deliveries to any destination.Read moreCar PartsWhether you are shipping
+      production or service parts, a reliable and experienced shipping partner
+      is a vital link in your uninterruptible supply chain. As the automotive
+      industry gradually moves into a new, greener era, MSC will be here to
+      provide the fast, flexible and transparent supply chain solution you
+      need.Read moreMining & MineralsFor decades MSC has been successfully
+      connecting the minerals extraction industries with customer markets around
+      the world – offering fast transit times across all key trade lanes.Read
+      morePlastics & Rubber ProductsTransported to and from every major trade
+      lane, plastic and rubber goods are at the very centre of most modern
+      global supply chains. Plastic and rubber comes in all shapes and sizes,
+      from raw materials to finished items. MSC ship plastics, natural rubber
+      and rubber products all around the world.Read moreChemicals &
+      PetrochemicalsMSC provides careful, precise and robust processes to safely
+      transport hazardous and dangerous goods, such as chemicals and
+      petrochemicals. As experts in the transportation of dangerous cargoes, MSC
+      can ensure your cargo is shipped safely and in compliance with relevant
+      regulations. We can also help you to deal with any contingency wherever
+      you are shipping around the globe.Read moreFood & BeveragesThanks to its
+      decades of experience servicing the food and beverage industries, MSC
+      understands the unique needs of the sector, including the importance of
+      global port coverage, equipment availability and reliable scheduling.Read
+      morePulp, Paper & Forestry ProductsUsing our knowledge in transportation
+      and logistics we can provide versatile solutions for your pulp, paper and
+      forest products. Our expertise covers importing and exporting paper
+      products, including cardboard and packaging materials. Exporting timber,
+      logs, firewood, pulp, plywood and wooden products (including prefabricated
+      houses) is easy with MSC.Read moreRetailRetailers rely on efficient global
+      product sourcing and a flexible and robust “just-in-time” supply chain. We
+      provide seamless port-to port delivery for retailers of all sizes. We have
+      decades of experience and expertise in worldwide retail shipmentsRead
+      moreNext1234
     items:
       - type: FeaturedItem
         title: Feature Item One
