@@ -19,7 +19,7 @@ topSections:
     styles:
       self:
         padding:
-          - pt-28
+          - pt-60
           - pb-60
           - pl-4
           - pr-10
