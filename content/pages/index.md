@@ -363,9 +363,13 @@ sections:
       solution for your next shipping request.
 
     media:
-      title: QuickShipNow
+      type: VideoBlock
+      title: Title of the video
       url: /images/placeholder-video.mp4
-      controls: true
+      autoplay: true
+      loop: true
+      muted: true
+      controls: false
       aspectRatio: '16:9'
       styles:
         self:
@@ -378,10 +382,6 @@ sections:
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
     colors: bg-neutral-fg-dark
     styles:
       self:
