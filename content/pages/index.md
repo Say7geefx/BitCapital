@@ -403,9 +403,24 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      As a family-run company, we put people first. Our vision is to open up a
+      world of opportunities for customers by continually investing in stable,
+      robust and sustainable shipping and logistics solutions. We're proud to
+      support people, infrastructure, economies and the environment across all
+      our regional and international trade routes, providing the foundation for
+      global trade and keeping our customers' cargo flowing, even in challenging
+      times.
+
+
+
+      Whether you're moving essential goods, such as medicine and fresh produce,
+      or luxury products, such as cars or precious commodities, you can trust us
+      to deliver flexible solutions across our integrated global network of
+      road, rail and sea transport and logistics solutions.
+
+
+
     actions:
       - label: Get started
         url: /
