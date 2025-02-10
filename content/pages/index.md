@@ -373,7 +373,7 @@ sections:
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         justifyContent: center
@@ -415,7 +415,7 @@ sections:
 
     actions: []
     media:
-      url: /images/MSC-Crew-on-board-MSC-Tessa-overseeing-loading.jpg
+      url: /images/6261112.jpg
       altText: Dope design preview
       type: ImageBlock
     colors: bg-light-fg-dark
@@ -487,8 +487,16 @@ sections:
       label: ''
       color: text-primary
       type: Badge
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     type: GenericSection
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: cover
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+      url: /images/lorry-on-motorway-in-motion.jpg
 seo:
   metaTitle: 'Home '
   metaDescription: ''
