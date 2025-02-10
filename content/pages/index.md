@@ -65,6 +65,48 @@ sections:
       text: WELCOME TO QUICKSHIPNOW
       color: text-dark
   - title:
+      text: 'Moving the World, Together.'
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: Success Built on Long-term Partnerships
+    text: >+
+      Our global shipping network is developed for our customers. By focusing on
+      delivering best-in-class service to our customers, we are always available
+      to help you with your particular needs and offer you a one-stop-shop
+      solution for your next shipping request.
+
+    media:
+      type: VideoBlock
+      title: Title of the video
+      url: 'https://youtu.be/5NV8UgA2dOI?si=UCFz8XjmiAdMOCHF'
+      autoplay: true
+      loop: true
+      muted: false
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: col
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: GenericSection
+  - title:
       text: Our Solutions
       color: text-primary
       styles:
@@ -169,48 +211,6 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - title:
-      text: 'Moving the World, Together.'
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Success Built on Long-term Partnerships
-    text: >+
-      Our global shipping network is developed for our customers. By focusing on
-      delivering best-in-class service to our customers, we are always available
-      to help you with your particular needs and offer you a one-stop-shop
-      solution for your next shipping request.
-
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: 'https://youtu.be/5NV8UgA2dOI?si=UCFz8XjmiAdMOCHF'
-      autoplay: true
-      loop: true
-      muted: false
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
