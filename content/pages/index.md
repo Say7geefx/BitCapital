@@ -28,7 +28,7 @@ sections:
       - label: TRACK SHIPMENT
         altText: ''
         url: /Track-shipment
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
