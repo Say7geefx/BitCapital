@@ -206,7 +206,7 @@ sections:
           - type: Button
             label: Get started
             altText: ''
-            url: /
+            url: sevensavy@zohomail.com
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -246,7 +246,7 @@ sections:
           - type: Button
             label: Get started
             altText: ''
-            url: /
+            url: sevensavy@zohomail.com
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -278,7 +278,7 @@ sections:
           - type: Button
             label: Get started
             altText: ''
-            url: /
+            url: sevensavy@zohomail.com
             showIcon: false
             icon: arrowRight
             iconPosition: right
