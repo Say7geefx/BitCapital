@@ -365,7 +365,7 @@ sections:
     media:
       title: QuickShipNow
       url: /images/placeholder-video.mp4
-      controls: false
+      controls: true
       aspectRatio: '16:9'
       styles:
         self:
