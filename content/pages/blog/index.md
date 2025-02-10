@@ -28,7 +28,7 @@ topSections:
           - ml-0
           - mr-0
     type: FeaturedPostsSection
-    hoverEffect: move-up
+    hoverEffect: shadow-plus-move-up
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
