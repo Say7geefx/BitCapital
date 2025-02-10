@@ -496,6 +496,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/lorry-on-motorway-in-motion.jpg
 seo:
   metaTitle: 'Home '
   metaDescription: ''
