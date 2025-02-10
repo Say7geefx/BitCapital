@@ -22,7 +22,7 @@ topSections:
           - pt-28
           - pb-60
           - pl-4
-          - pr-4
+          - pr-10
         justifyContent: flex-start
     type: FeaturedPostsSection
     hoverEffect: move-up
