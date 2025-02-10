@@ -25,7 +25,7 @@
         },
         {
             "label": "Tracking Number ",
-            "url": "/pricing",
+            "url": "",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
