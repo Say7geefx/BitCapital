@@ -16,6 +16,15 @@ sections:
     text: |+
 
     actions:
+      - label: TRACK SHIPMENT
+        altText: ''
+        url: /Track-shipment
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Link
       - label: Booking Number
         altText: ''
         url: /
@@ -25,15 +34,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: TRACK SHIPMENT
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       altText: Unblock your team boost your time to production preview
       elementId: ''
