@@ -24,8 +24,8 @@
             "elementId": ""
         },
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "Tracking Number ",
+            "url": "/Tracking-Number",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
