@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Home",
-            "altText": "",
+            "altText": "https://quickshipnow.netlify.app/",
             "links": [],
             "labelStyle": "secondary",
             "type": "SubNav"
