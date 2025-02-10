@@ -232,7 +232,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Read More
             altText: ''
             url: Read More
             showIcon: false
