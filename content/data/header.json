@@ -13,13 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "",
-            "altText": "",
-            "links": [],
-            "labelStyle": "secondary",
-            "type": "SubNav"
-        },
-        {
             "type": "Button",
             "label": "Home",
             "altText": "",
