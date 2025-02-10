@@ -236,7 +236,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: PHARMACEUTICALS
+        title: Pharmaticals
         tagline: ''
         subtitle: ''
         text: >+
