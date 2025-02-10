@@ -291,7 +291,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: "FOOD\_&\_BEVERAGES"
+        title: "Food &\_Beverages"
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
