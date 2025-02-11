@@ -33,7 +33,7 @@
         },
         {
             "label": "Blog",
-            "altText": "Blog",
+            "altText": "",
             "url": "",
             "icon": "arrowRight",
             "iconPosition": "right",
