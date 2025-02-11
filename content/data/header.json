@@ -39,7 +39,7 @@
             "label": "Tracking Number",
             "altText": "",
             "url": "/Tracking-Number",
-            "showIcon": false,
+            "showIcon": true,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
