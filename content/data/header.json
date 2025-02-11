@@ -25,7 +25,7 @@
         },
         {
             "label": "Tracking Number ",
-            "url": "/Tracking-Number",
+            "url": "",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
