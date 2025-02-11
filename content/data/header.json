@@ -24,17 +24,17 @@
             "elementId": ""
         },
         {
-            "label": "Tracking Number ",
-            "url": "quickshipnow.netlify.app/blog/",
+            "label": "Blog",
+            "altText": "",
+            "url": "",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Blog",
-            "altText": "",
-            "url": "",
+            "label": "Tracking Number ",
+            "url": "quickshipnow.netlify.app/blog/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
