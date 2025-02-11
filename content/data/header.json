@@ -42,7 +42,7 @@
         },
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Tracking Number",
             "altText": "",
             "url": "/Tracking-Number",
             "showIcon": false,
