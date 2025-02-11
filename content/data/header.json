@@ -34,6 +34,17 @@
         },
         {
             "type": "Button",
+            "label": "Get started",
+            "altText": "",
+            "url": "/Blog",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
+            "type": "Button",
             "label": "Tracking Number",
             "altText": "",
             "url": "/Tracking-Number",
