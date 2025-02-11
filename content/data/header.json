@@ -25,7 +25,7 @@
         },
         {
             "label": "Tracking Number ",
-            "url": "",
+            "url": "quickshipnow.netlify.app/blog/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
