@@ -1,7 +1,7 @@
 ---
 title: Tracking Number
 slug: /blog
-numOfPostsPerPage: 4
+numOfPostsPerPage: 0
 enableSearch: false
 topSections: []
 styles:
