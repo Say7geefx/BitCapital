@@ -24,21 +24,26 @@
             "elementId": ""
         },
         {
-            "label": "Tracking Number ",
-            "url": "/Tracking-Number",
+            "type": "Button",
+            "label": "Get started",
+            "altText": "",
+            "url": "/Blog",
+            "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
+            "style": "primary",
+            "elementId": ""
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
+            "type": "Button",
+            "label": "Tracking Number",
+            "altText": "",
+            "url": "/Tracking-Number",
+            "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
+            "style": "primary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [
