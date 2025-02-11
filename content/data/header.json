@@ -33,14 +33,6 @@
             "type": "Link"
         },
         {
-            "label": "Tracking Number ",
-            "url": "",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "Button",
             "label": "Tracking Number",
             "altText": "",
@@ -50,6 +42,14 @@
             "iconPosition": "right",
             "style": "primary",
             "elementId": ""
+        },
+        {
+            "label": "Tracking Number ",
+            "url": "",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         }
     ],
     "secondaryLinks": [
