@@ -38,7 +38,7 @@
             "type": "Button",
             "label": "Tracking Number",
             "altText": "",
-            "url": "/Tracking-Number",
+            "url": "/blog",
             "showIcon": true,
             "icon": "arrowRight",
             "iconPosition": "right",
